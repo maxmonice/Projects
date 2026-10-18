@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SalaryApp/SalaryApp.csproj" />
+  <Project Path="SalaryLibrary/SalaryLibrary.csproj" />
+</Solution>
